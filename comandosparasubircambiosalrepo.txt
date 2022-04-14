@@ -12,3 +12,8 @@ git push
 
 # estado de la rama 
  git status
+
+# Para abrir jupyter notebook
+	1 abir cmd como administrador
+	2 ejecutar jupyter notebook en el terminal 
+		se abrira en el explorador el notebook
