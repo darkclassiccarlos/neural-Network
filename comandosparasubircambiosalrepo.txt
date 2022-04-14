@@ -1,0 +1,10 @@
+#comandos para subir cambios a mi primer repositorio neural network
+1 #ajustando todos los cambios (guardar primero)
+git add .
+2 #preparando los datos antes de subirlos
+git commit -m 'mensaje que le quiera poner segun lo que hizo'
+	si hay conflicto
+		git add .
+		git commit -am 'mensaje... bla bla bla ' 
+3 # subiendo datos
+git push
