@@ -8,3 +8,7 @@ git commit -m 'mensaje que le quiera poner segun lo que hizo'
 		git commit -am 'mensaje... bla bla bla ' 
 3 # subiendo datos
 git push
+
+
+# estado de la rama 
+ git status
