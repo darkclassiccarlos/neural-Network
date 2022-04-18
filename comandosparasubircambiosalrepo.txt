@@ -17,3 +17,6 @@ git push
 	1 abir cmd como administrador
 	2 ejecutar jupyter notebook en el terminal 
 		se abrira en el explorador el notebook
+
+# Obtener cambios de repositorio
+git pull
