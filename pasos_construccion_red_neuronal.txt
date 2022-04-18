@@ -1,0 +1,21 @@
+//////******************************************************//////
+Priero debo almacenar mis imagenes a analizar en una carpeta (o datos de entrada)
+
+//////******************************************************//////
+Obtener datos de entrada(
+        estos son datos representativos que me serviran para el etrenamiento de la red
+)
+Nota: debo tener un dataset (datos relacionales) o tabla con esta información en formato 
+csv
+
+//////******************************************************//////
+Construir el modelo matemático
+
+
+//////******************************************************//////
+Alientar el modelo matemático (la red)
+
+//////******************************************************//////
+Hacer pruebas de la red neural
+
+//////******************************************************//////
